@@ -1,14 +1,84 @@
-# 💫 About Me:
-Hi! I'm Michiko👋<br><br>I'm an Integrated Master's–Ph.D. student in Industrial Data Science and Engineering<br><br>- 🔬 Research interests: Operations Research, LLM, AI <br>- 💻 Tech stack: Python, R, JavaScript, Flask, HTML/CSS<br><br>I enjoy turning complex systems into practical tools and meaningful insights.
+<div align="center">
 
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E6,50:FECDD3,100:FDA4AF&height=220&section=header&text=hi%20there,%20i'm%20michiko%20%F0%9F%AA%B4&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=turning%20systems%20into%20whimsical%20tools&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jmichikoleo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephamichikoleo@gmail.com) 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1200&color=F9A8B8&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=integrated+ms-phd+%C2%B7+industrial+data+science+%26+engineering;building+things+that+feel+like+magic+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jmichikoleo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jmichikoleo&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jmichikoleo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F9A8B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmichikoleo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FDA4AF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jmichikoleo.github.io/#hero)
+
+</div>
+
+---
+
+<br/>
+
+### `whoami`
+
+```python
+class Michiko:
+    def __init__(self):
+        self.role = "Integrated MS-PhD Student"
+        self.field = "Industrial Data Science & Engineering"
+        self.philosophy = "turn complex systems into whimsical, delightful tools"
+        self.currently = "researching, building, and caffeinating"
+
+    def say_hi(self):
+        return "thanks for stopping by! let's make something cool."
+```
+
+<br/>
+
+### tools i like to tinker with
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
+
+<br/>
+
+### what i'm up to lately
+
+- researching at the intersection of data science & industrial systems
+- building tools that make complex data feel approachable
+- exploring new ways to visualize and interact with information
+
+<br/>
+
+### stats & things
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jmichikoleo&show_icons=true&hide_border=true&bg_color=00000000&title_color=F9A8B8&icon_color=FECDD3&text_color=888888&ring_color=F9A8B8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmichikoleo&layout=compact&hide_border=true&bg_color=00000000&title_color=F9A8B8&text_color=888888" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jmichikoleo&hide_border=true&background=00000000&ring=F9A8B8&fire=FDA4AF&currStreakLabel=F9A8B8&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=AAAAAA" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E6,50:FECDD3,100:FDA4AF&height=100&section=footer" width="100%" />
+
+</div>
