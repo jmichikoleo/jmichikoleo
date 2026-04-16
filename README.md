@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1200&color=F9A8B8&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=integrated+ms-phd+%C2%B7+industrial+data+science+%26+engineering;building+things+that+feel+like+magic+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1200&color=F9A8B8&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=60&lines=integrated+ms-phd+%C2%B7+industrial+data+science+%26+engineering;building+things+that+feel+like+magic+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -52,14 +52,6 @@ class Michiko:
 
 <br/>
 
-### what i'm up to lately
-
-- researching at the intersection of data science & industrial systems
-- building tools that make complex data feel approachable
-- exploring new ways to visualize and interact with information
-
-<br/>
-
 ### stats & things
 
 <div align="center">
@@ -76,12 +68,6 @@ class Michiko:
 <br/>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E6,50:FECDD3,100:FDA4AF&height=100&section=footer" width="100%" />
-
-</div>
 
 <div align="center">
 
