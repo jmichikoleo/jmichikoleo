@@ -82,3 +82,9 @@ class Michiko:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E6,50:FECDD3,100:FDA4AF&height=100&section=footer" width="100%" />
 
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E6,50:FECDD3,100:FDA4AF&height=100&section=footer" width="100%" />
+
+</div>
