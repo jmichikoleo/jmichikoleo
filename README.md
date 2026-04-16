@@ -25,7 +25,7 @@
 ```python
 class Michiko:
     def __init__(self):
-        self.role = "Integrated MS-PhD Student"
+        self.role = "Integrated MS-PhD Student & TEAMLAB Researcher"
         self.field = "Industrial Data Science & Engineering"
         self.philosophy = "turn complex systems into whimsical, delightful tools"
         self.currently = "researching, building, and caffeinating"
